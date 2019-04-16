@@ -1,4 +1,4 @@
 fn main() {
-    yew::start_app::<todomvc::Model>();
+    yew::start_app::<brust::Model>();
 }
 
